@@ -66,7 +66,7 @@ public class CreateEmissionConfig {
 		private static final String outputPath = "./test/output/";
 		private static final String configFilePath = inputPath + "config_v2.xml";
 		
-		private static final int numberOfIterations = 6;
+		private static final int numberOfIterations = 121;
 		
 		
 		public static void main(String[] args) {
